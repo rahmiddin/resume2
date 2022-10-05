@@ -12,17 +12,17 @@
 </head>
 <body>
    <div class="wrapper">
-      <header class="header">
-         <div class="header__conteiner">
-            <div class="header__body">
-               <div class="header__item">
-                  <a class="header__link" href="#">Works</a>
-                  <a class="header__link" href="#">Blog</a>
-                  <a class="header__link" href="#">Contact</a>
-               </div>
-            </div>
-         </div>
-      </header>
+<!--      <header class="header">-->
+<!--         <div class="header__conteiner">-->
+<!--            <div class="header__body">-->
+<!--               <div class="header__item">-->
+<!--                  <a class="header__link" href="#">Works</a>-->
+<!--                  <a class="header__link" href="#">Blog</a>-->
+<!--                  <a class="header__link" href="#">Contact</a>-->
+<!--               </div>-->
+<!--            </div>-->
+<!--         </div>-->
+<!--      </header>-->
       <main class="page">
          <div class="page__main intro">
             <div class="intro__conteiner _conteiner">
@@ -43,7 +43,7 @@
                      </div>
                   </div>
                   <div class="intro__right-side">
-                     <img src="static/media/main/main_photo.jpg" alt="">
+                     <img class='main__img' src="static/media/main_photo.jpg" alt="">
                   </div>
                </div>
             </div>
@@ -96,7 +96,7 @@
             <div class="featured__conteiner _conteiner">
                <div class="feature__body">
                   {% block content %}
-                  <span class="featured__main-title">Featured works</span>
+                  <span class="featured__main-title">Мои проекты</span>
                   {% for project in object_list %}
                   <div class="featured__works-one">
                      <div class="featured__left-side"><img class="featued__img-one" src="{{ get_media_prefix }}{{ project.img }}" alt="work">
@@ -114,14 +114,14 @@
                   </div>
                   {% endfor %}
                   {% endblock %}
+               </div>
+            </div>
+         </div>
+
       </main>
       <footer class="footer">
          <div class="footer__conteiner _conteiner">
-            <div class="footer__logos">
-               <div class="footer__logo facebook"><img src="img/footer/face.png" alt="logo"></div>
-               <div class="footer__logo fb"><img src="img/footer/fb.png" alt="logo"></div>
-               <div class="footer__logo inst"><img src="img/footer/inst.png" alt="logo"></div>
-            </div>
+            Мой номер : 79514768222 <br><br>Telegram: https://t.me/Roninn1
             <div class="footer__copyright">Copyright ©2020 All rights reserved </div>
          </div>
       </footer>

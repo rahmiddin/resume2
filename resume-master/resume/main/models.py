@@ -5,7 +5,7 @@ from django.db import models
 
 class Project(models.Model):
     title = models.CharField(max_length=50)
-    img = models.ImageField(upload_to='static/media', blank=True)
+    img = models.ImageField(upload_to='static/media/featured/', blank=True)
     date = models.DateTimeField()
     locate = models.CharField(max_length=30)
     descriptions = models.TextField(max_length=150)

@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c27e94d4-81ca-4427-810b-37c7614ae01b" name="Changes" comment="" />
+    <list default="true" id="c27e94d4-81ca-4427-810b-37c7614ae01b" name="Changes" comment="download add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/main/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/resume-master/resume/main/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/resume-master/resume/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/media/static/media/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/media/static/media/png-transparent-taurine-cattle-holstein-friesian-cattle-logo-design-cow-goa_C2oF0VV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/media/static/media/для_марка.jpg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/resume/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/resume-master/resume/resume/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/resume-master/resume/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/static/media/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/static/media/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/static/media/main/i.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/static/media/main/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/static/media/main/main_photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/static/media/main/photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/static/media/main/photo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/static/media/main/png-transparent-taurine-cattle-holstein-friesian-cattle-logo-design-cow-goa_C2oF0VV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/static/media/png-transparent-taurine-cattle-holstein-friesian-cattle-logo-design-cow-goa_C2oF0VV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/static/media/site.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/static/media/для_марка.jpg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume-master/resume/templates/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume-master/resume/templates/main/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +54,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resume-master/resume/static/media/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -49,6 +71,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664018116237</updated>
     </task>
+    <task id="LOCAL-00001" summary="download add">
+      <created>1664032699484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664032699484</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,5 +91,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="download add" />
+    <option name="LAST_COMMIT_MESSAGE" value="download add" />
   </component>
 </project>
